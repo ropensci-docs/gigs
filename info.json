@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "15fc5f38bff55183831e99379750688f3be6ddc7",
+    "author": "Simon Parker <65285181+awadafuk@users.noreply.github.com>",
+    "time": "2025-02-04 18:28:42",
+    "files": 2,
+    "merge": false,
+    "message": "chore: fix citation in README.Rmd\n"
+  },
+  "repo": "https://github.com/ropensci/gigs",
+  "pkg": "gigs"
+}
