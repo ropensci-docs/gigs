@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "fb58fe6596d4b289d5362c5efe00f882984d3186",
+    "author": "Simon Parker <65285181+simpar1471@users.noreply.github.com>",
+    "time": "2026-09-07T07:37:35Z",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #43 from goelakash/docs/fix-gigs-stata-link\n\nFix the gigs-stata repository link in README"
+  },
+  "repo": "https://github.com/ropensci/gigs",
+  "pkg": "gigs",
+  "time": "2026-09-07T10:38:58Z"
+}
